@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    overflow: hidden;
+}
+#cvs{
+    position: absolute;
+    background-color: #000;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
